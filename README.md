@@ -20,7 +20,7 @@ Welcome to the Alibaba Web Scraping Project! This project is designed to facilit
 
 ## Dependencies
 
-- Python 3.x
+- Python
 - `requests`
 - `BeautifulSoup`
 - `pandas`
