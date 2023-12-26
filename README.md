@@ -18,9 +18,6 @@ Welcome to the Alibaba Web Scraping Project! This project is designed to facilit
 ### 4. Store Rating
    - Retrieves the store rating for a given product, providing insights into the supplier's reputation.
 
-### 5. Data Visualization
-   - Leverages `seaborn` and `matplotlib` for visual representations, enhancing the interpretation of the collected information.
-
 ## Dependencies
 
 - Python 3.x
